@@ -4,3 +4,9 @@
 /home/minh-nguyen/RiderProjects/KTPM/KTPM/obj/Debug/KTPM.csproj.CoreCompileInputs.cache
 /home/minh-nguyen/RiderProjects/KTPM/KTPM/obj/Debug/KTPM.exe
 /home/minh-nguyen/RiderProjects/KTPM/KTPM/obj/Debug/KTPM.pdb
+/home/minh-nguyen/projects/ktpm/KTPM/KTPM/bin/Debug/KTPM.exe
+/home/minh-nguyen/projects/ktpm/KTPM/KTPM/bin/Debug/KTPM.pdb
+/home/minh-nguyen/projects/ktpm/KTPM/KTPM/obj/Debug/KTPM.csproj.AssemblyReference.cache
+/home/minh-nguyen/projects/ktpm/KTPM/KTPM/obj/Debug/KTPM.csproj.CoreCompileInputs.cache
+/home/minh-nguyen/projects/ktpm/KTPM/KTPM/obj/Debug/KTPM.exe
+/home/minh-nguyen/projects/ktpm/KTPM/KTPM/obj/Debug/KTPM.pdb

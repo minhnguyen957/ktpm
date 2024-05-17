@@ -3,5 +3,5 @@
   &lt;ProjectFile&gt;2A9AF149-B309-434A-AC53-0110E8A240F0/f:Tests.cs&lt;/ProjectFile&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a0eba691_002D5cfb_002D4061_002Dae5d_002D70de6753b9a3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestSearch" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;Project Location="/home/minh-nguyen/RiderProjects/KTPM/KTPMTest" Presentation="&amp;lt;KTPMTest&amp;gt;" /&gt;
+  &lt;Project Location="/home/minh-nguyen/projects/ktpm/KTPM/KTPMTest" Presentation="&amp;lt;KTPMTest&amp;gt;" /&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
